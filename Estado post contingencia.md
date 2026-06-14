@@ -47,3 +47,32 @@ A los efectos de la presente NT, son fallas de baja probabilidad de ocurrencia:
     - La frecuencia se encuentra dentro del rango definido para Estado Normal.
     - Las reservas de potencia en giro y de capacidad de transmisión y aporte de reactivos están dentro de los valores programados.
     - El SI puede superar sin pérdida de sincronismo una de las contingencias establecidas en el Artículo 5-31.
+
+### Estándares de Tensión para Estado Normal, Alerta y Emergencia
+
+- <u>Estado normal</u> (EN)
+    - 0.97 - 1.03 p.u. para 500 kV
+    - 0.95 y 1.05 p.u. para 220 kV
+- <u>Estado de alerta</u> (EA)
+    - 0.95 - 1.05 p.u. para 500 kV
+    - 0.97 - 1.07 p.u. para 220 kV
+- <u>Estado de emergencia</u> (EE)
+    - 0.93 - 1.05 p.u. para 500 kV
+    - 0.90 - 1.10 p.u. para 220 kV
+
+### Rangos de frecuencia para EN, EA y EE
+
+<u>Estado normal y de alerta</u>:
+
+- Sistemas en los cuales el aporte de energía de centrales hidroeléctricas, durante los siete días de control, supere el 60% del consumo total:
+    - sobre 49,8 [Hz] y bajo 50,2 [Hz] durante al menos el 99% del período;
+    - entre 49,3 [Hz] y 49,8 [Hz] durante no más de un 0,5% del período;
+    - entre 50,2 y 50,7 [Hz] durante no más de un 0,5% del período.
+- Sistemas en los cuales el aporte de energía de centrales hidroeléctricas, durante los siete días de control, no supere el 60% del consumo total:
+    - sobre 49,8 [Hz] y bajo 50,2 [Hz] durante al menos el 97% del período;
+    - entre 49,3 [Hz] y 49,8 [Hz] durante a lo más un 1,5% del período;
+    - entre 50,2 y 50,7 [Hz] durante a lo más un 1,5% del período.
+
+<u>Estado de emergencia</u>:
+
+No especifica.
